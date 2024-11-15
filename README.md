@@ -15,79 +15,79 @@ Then, this $\Phi$ matrix was used to calculate the 100-dimesion embeddings, usin
 25 randomly picked vocabulary words and their nearest neighbors in the 100-dimension space are:\\
 WORD:    school\\
 NEAREST NEIGHBOR:    college\\
-=====================================================\\
+
 WORD:    water\\
 NEAREST NEIGHBOR:    gas\\
-=====================================================\\
+
 WORD:    system\\
 NEAREST NEIGHBOR:    group\\
-=====================================================\\
+
 WORD:    government\\
 NEAREST NEIGHBOR:    public\\
-=====================================================\\
+
 WORD:    eyes\\
 NEAREST NEIGHBOR:    face\\
-=====================================================\\
+
 WORD:    national\\
 NEAREST NEIGHBOR:    political\\
-=====================================================\\
+
 WORD:    children\\
 NEAREST NEIGHBOR:    child\\
-=====================================================\\
+
 WORD:    church\\
 NEAREST NEIGHBOR:    local\\
-=====================================================\\
+
 WORD:    power\\
 NEAREST NEIGHBOR:    personal\\
-=====================================================\\
+
 WORD:    family\\
 NEAREST NEIGHBOR:    group\\
-=====================================================\\
+
 WORD:    mind\\
 NEAREST NEIGHBOR:    head\\
-=====================================================\\
+
 WORD:    country\\
 NEAREST NEIGHBOR:    area\\
-=====================================================\\
+
 WORD:    service\\
 NEAREST NEIGHBOR:    program\\
-=====================================================\\
+
 WORD:    god\\
 NEAREST NEIGHBOR:    champion\\
-=====================================================\\
+
 WORD:    certain\\
 NEAREST NEIGHBOR:    different\\
-=====================================================\\
+
 WORD:    law\\
 NEAREST NEIGHBOR:    laws\\
-=====================================================\\
+
 WORD:    human\\
 NEAREST NEIGHBOR:    man's\\
-=====================================================\\
+
 WORD:    company\\
 NEAREST NEIGHBOR:    name\\
-=====================================================\\
+
 WORD:    local\\
 NEAREST NEIGHBOR:    business\\
-=====================================================\\
+
 WORD:    history\\
 NEAREST NEIGHBOR:    experience\\
-=====================================================\\
+
 WORD:    action\\
 NEAREST NEIGHBOR:    upon\\
-=====================================================\\
+
 WORD:    feet\\
 NEAREST NEIGHBOR:    acres\\
-=====================================================\\
+
 WORD:    death\\
 NEAREST NEIGHBOR:    upon\\
-=====================================================\\
+
 WORD:    experience\\
 NEAREST NEIGHBOR:    history\\
-=====================================================\\
+
 WORD:    body\\
 NEAREST NEIGHBOR:    fat\\
-=====================================================\\
+
 
 Yes, these results make sense since each of the 25 words that were considered has a close neighbor which is either a word that is related to it, or a word that is often used in similar contexts.
 
